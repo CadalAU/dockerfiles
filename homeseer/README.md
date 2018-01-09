@@ -10,6 +10,9 @@ Here is a list of ports that you may want to expose:
 - Port 10200 HSTouch
 - Port 10300 myHS
 
+# Neat Tip
+Create (case sensitive) PLUGINS folder under data, then inside PLUGINS create override and zips.
+
 # Example Usage
 ```
 docker run -it --rm \
