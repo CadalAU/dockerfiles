@@ -1,3 +1,6 @@
+# Credit
+Credit to chasebolt, this fork is to test a dependency issue utalising three plugins.
+
 # HomeSeer
 All the needed bits to containerize HomeSeer.
 
