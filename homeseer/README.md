@@ -21,5 +21,5 @@ docker run -it --rm \
   -p 10401:10401 \
   -p 10200:10200 \
   -p 10300:10300 \
-  cbolt/homeseer
+  cadalau/homeseer
 ```
